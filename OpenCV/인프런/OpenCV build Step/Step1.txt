@@ -1,0 +1,17 @@
+1. cmake Download
+  - https://cmake.org/download/
+
+2. CUDA Toolkit Download
+  - https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+
+3. OpenCV git clone
+  - https://github.com/opencv/opencv
+  - https://github.com/opencv/opencv_contrib
+
+4. tbb Download
+  - https://github.com/oneapi-src/oneTBB/releases
+
+OpenCV-LIBRARY > build
+OpenCV-LIBRARY > source
+위 경로대로 폴더 만든 후,
+OpenCV, tbb 다운로드 받은 것들을 source 안으로 삽입
